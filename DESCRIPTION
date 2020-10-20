@@ -1,4 +1,4 @@
-Package: rFIA_TX
+Package: rFIA.TX
 Type: Package
 Title: Duplicate rFIA for TX
 Version: 0.2.5
